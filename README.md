@@ -7,7 +7,7 @@ a quote from youtuber [@BRKsEdu](https://www.youtube.com/user/BRKsEDU)
 
 ## Now let's check if I can play around with formatting this README file:
 
-This is the [LINK](https://tiago-lelinski-marin.github.io/testing-webpage-view/) to the page!
+This is the [LINK](https://tiago-lelinski-marin.github.io/TIAGOtube/) to the page!
 
 ![like-button](images/like.png)
 
